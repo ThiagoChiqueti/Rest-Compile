@@ -1,0 +1,1 @@
+const firstAlert = "Olá, seja bem vindo ao Rest & Compile"
