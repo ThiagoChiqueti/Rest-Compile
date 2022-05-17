@@ -13,11 +13,11 @@ more features comming soon :p
 # Features 
 Nothing avaible yet :( in progress!
 
-- [] Login
-- [] Subimit products
-- [] View all products
-- [] Product search
-- [] Categories
+-[] Login
+-[] Subimit products
+-[] View all products
+-[] Product search
+-[] Categories
 
 # The process
 In my first commit i just made the main doccuments nothing else;
@@ -26,8 +26,8 @@ In my first commit i just made the main doccuments nothing else;
 Colors: 
 <table>
  <thead>
-  <tr>Color</tr>
-  <tr>Hexa</tr>
+  <td>Color</td>
+  <td>Hexa</td>
  </thead>
  <tbody>
   <td>White</td>
@@ -39,5 +39,4 @@ Colors:
 If you have interesting in this project, contact me on instagram @chiqueti_thiago;
 
  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="64px" height="64px"/>
- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="64px" height="64px" />
           
